@@ -29,7 +29,7 @@
               </div>
             <!-- end header -->
 
-              <hr size="1px">
+              {{-- <hr size="1px"> --}}
               {{-- <div class="judul" style="padding-left: 18rem;
               padding-top: 3rem;">
                 <h3>
