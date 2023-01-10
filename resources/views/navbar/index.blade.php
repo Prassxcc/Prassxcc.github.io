@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #343A40;">
     <div class="container-fluid">
       <a class="navbar-brand" href="/">
-        <img src="bobot.jpeg" alt="Logo" width="32" height="32" class="d-inline-block align-text-top" style="margin-right: auto; border-radius:50%;">
+        <img src="mylogo.png" alt="Logo" width="33" height="33" class="d-inline-block align-text-top" style="margin-right: auto; border-radius:50%;">
         MUHAMMAD SYIFA PRASETYO
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
